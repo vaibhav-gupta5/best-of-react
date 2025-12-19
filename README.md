@@ -502,6 +502,20 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 	npm install @duik/it
 	```
 </details>
+
+<details><summary><b><a href="https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template">Tailwindadmin</a></b> (🥉17 ·  ⭐ 31+) - Free Shadcn Dashboard Template Built On React and Tailwind CSS
+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) (👨‍💻 30+ · 🔀 30 · 📦 43 · 📋 34 - 80% open · ⏱️ 19.12.2025):
+
+	```
+	git clone https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template
+	```
+	```
+	npm install 
+	```
+</details>
+
 <details><summary>Show 11 hidden projects...</summary>
 
 - <b><a href="https://github.com/elastic/eui">eui</a></b> (🥈38 ·  ⭐ 6K) - Elastic UI Framework. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
