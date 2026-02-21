@@ -3255,7 +3255,6 @@ _Admin frontend frameworks, dashboards and templates._
 
 - [GitHub](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) (⭐ 49 · 🍴 2 · ⏱️ 03.01.2026):
 
-```
   git clone https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template
 ```
 
